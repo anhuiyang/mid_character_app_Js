@@ -6,4 +6,13 @@ describe('midCharacter', function(){
     it('will take an odd length string and return mid character', function(){
         expect(midCharacter('testing')).toBe('t')
     })
+    it('will take an odd length string and return mid character', function(){
+        expect(midCharacter('A')).toBe('A')
+    })
+    it('will take an odd length string and return mid character', function(){
+        expect(midCharacter('middle')).toBe('dd')
+    })
+    it('will take an odd length string and return mid character', function(){
+        expect(midCharacter('of')).toBe('of')
+    })
 })
