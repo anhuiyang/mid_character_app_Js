@@ -10,7 +10,7 @@ A simple mid character application to return the mid character of a string
 
 ## Installation
     $ git clone 
-    $ cd mid_character_app_Js
+    $ cd mid_character_app_js
     $ rspec #Run the test first
     $ open index.html 
     $ follow the instruction on the page
