@@ -1,3 +1,4 @@
+/* eslint-disable */
 let {midCharacter} = require('../src/midCharacter.js')
 describe('midCharacter', function(){
     it('will take an even length string and return mid characters', function(){
